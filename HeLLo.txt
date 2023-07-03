@@ -1,0 +1,8 @@
+Hello, this is my first git repository.
+I have got some operation on git.
+1. check both of two file changes.
+2. what diffrent both index and master.
+3. what diffrent both staged and staging.
+4. how can i push my changed code to github repository.
+5. what diffrent both "git rm --cached <file>" and "git reset HEAD" 
+
