@@ -1,2 +1,3 @@
 Hello, my first git repository.
 my first change to learn how to check files change in git.
+third change
